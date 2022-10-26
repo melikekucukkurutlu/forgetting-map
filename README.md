@@ -16,6 +16,8 @@ You can assume that the forgetting map will be at capacity for most of its life 
 method.
 
 Implementation
+
 • Java would be preferable.
+
 • You may use standard collections (HashMap, LinkedList, etc.) to build your solution but the use of a pre-existing library solution with the
 required behaviour, though an option in everyday work, is not what we’re looking for here.
